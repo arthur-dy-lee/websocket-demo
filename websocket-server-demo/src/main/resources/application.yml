@@ -1,0 +1,6 @@
+server:
+  port: 8007
+
+info:
+  app.name: websocket-server-demo
+
